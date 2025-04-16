@@ -355,7 +355,7 @@ Together we can make Codex CLI an incredible tool. **Happy hacking!** :rocket:
 
 ### Developer Certificate of Origin (DCO)
 
-All commits **must** include a `Signed‑off‑by:` footer.  
+All commits **must** include a `Signed‑off‑by:` footer.
 This one‑line self‑certification tells us you wrote the code and can contribute it under the repo’s license.
 
 #### How to sign (recommended flow)
