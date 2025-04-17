@@ -54,7 +54,7 @@ https://pflimypj.manus.space
 
 ## References
 - STEAM-Labz website: https://steam-labz.com
-- STEAM-Labz codex web terminal: https://steam-labz.com/sl-codex
+- STEAM-Labz codex web terminal: https://codex.steam-labz.com
 - Codex documentation: https://steam-labz.com/codex
 - GitHub repository: https://github.com/openai/codex
 
