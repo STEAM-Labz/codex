@@ -12,7 +12,7 @@ STEAM-Labz Codex Terminal is a browser-based terminal application that runs Code
 - Simulated Codex API integration (ready for real OpenAI API integration)
 
 ## Usage
-1. Visit the application at: https://pflimypj.manus.space
+1. Visit the application at: https://codex.steam-labz.com
 2. Enter your OpenAI API key in the settings panel (left sidebar)
 3. Select your preferred approval mode:
    - Suggest: Requires approval for all Codex operations
@@ -43,7 +43,7 @@ The application was initially built using xterm.js for terminal emulation, but d
 
 ## Deployment
 The application is deployed as a static website at:
-https://pflimypj.manus.space
+https://codex.steam-labz.com
 
 ## Future Enhancements
 - Integration with the actual OpenAI API
