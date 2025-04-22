@@ -1,4 +1,4 @@
-# STEAM-Labz Codex Terminal - Updated Documentation
+# STEAM-Labz Codex Terminal Documentation
 
 ## Overview
 STEAM-Labz Codex Terminal is a browser-based terminal application that runs Codex with STEAM-Labz branding. It provides a user-friendly interface for interacting with Codex through a terminal-like experience directly in the browser.
